@@ -1,8 +1,6 @@
 nodeVideoDownload
 =================
 
-Node.js automated video download script to interact with the Ooyala API
-
 Requires:
 
 - Node.js
